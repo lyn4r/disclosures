@@ -1,5 +1,7 @@
 # Disclosures
 
+Vulnerabilities I’ve discovered and disclosed.
+
 | ID | Project | Vulnerability |
 |---|---|---|
 | CVE-2026-60118 | Hi.Events | Hidden Ticket Enumeration via Order Creation Endpoint |
