@@ -4,6 +4,7 @@ Vulnerabilities I’ve discovered and disclosed.
 
 | ID | Project | Vulnerability |
 |---|---|---|
+| CVE-2026-29001 | ... | ... |
 | CVE-2026-92980 | HortusFox | Remote Code Execution via Import/Export | 
 | CVE-2026-71981 | Cypht | PHP Object Injection RCE via back_query Parameter | 
 | CVE-2026-73524 | Cypht | XSS via FROM Email Header in Contacts Module | 
