@@ -4,6 +4,7 @@ Vulnerabilities I’ve discovered and disclosed.
 
 | ID | Project | Vulnerability |
 |---|---|---|
+| CVE-2026-104069 | HortusFox | Remote Code Execution via Theme Import |
 | CVE-2026-29001 | ... | ... |
 | CVE-2026-92980 | HortusFox | Remote Code Execution via Import/Export | 
 | CVE-2026-71981 | Cypht | PHP Object Injection RCE via back_query Parameter | 
